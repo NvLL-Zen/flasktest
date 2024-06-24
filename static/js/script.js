@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    const changeStr = "HOHO I HAVE CHANGED V2"
+    const changeStr = "HOHO I HAVE CHANGED"
     const chtext = document.querySelector("#chText")
     setTimeout(() => {
       chtext.innerHTML = changeStr
